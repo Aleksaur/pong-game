@@ -8,3 +8,7 @@ A classic two-player Pong game built using Python and Pygame.
 - Collision detection
 - Score tracking system
 - Smooth 60 FPS gameplay
+
+## 🛠️ Built With
+- Python
+- Pygame
