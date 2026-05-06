@@ -1,14 +1,14 @@
-# 🏓 Pong Game (Pygame)
+# Pong Game (Pygame)
 
 A classic two-player Pong game built using Python and Pygame.
 
-## 🎮 Features
+## Features
 - Two-player controls (W/S and Arrow keys)
 - Real-time ball physics
 - Collision detection
 - Score tracking system
 - Smooth 60 FPS gameplay
 
-## 🛠️ Built With
+## Built With
 - Python
 - Pygame
